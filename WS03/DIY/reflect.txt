@@ -1,0 +1,9 @@
+/*Workshop #3 DIY
+        Name        : Rajbeer Sokhi
+        StudentId   : 124969205
+        Email       : rsokhi1@myseneca.ca
+        Section     : NAA
+        Date        : 10th June 2021
+        All the coding in this workshop is done by me.
+*/
+In this workshop I have learned how to make the functions and the variables of a class private and public. Also, I got to learn how to declare a function in a class and then define it in a cpp file. I also learned how to format the output using the standard input output objects.

@@ -1,0 +1,15 @@
+/*Workshop #2 DIY
+        Name        : Rajbeer Sokhi
+        StudentId   : 124969205
+        Email       : rsokhi1@myseneca.ca
+        Section     : NAA
+        Date        : 2nd June 2021
+
+        All the coding in this workshop is done by me with no outside help.
+*/
+Out parameter is the parameter in which the data is written in that function and in parameter are the parameters, which just pass the value to the function and no changes are made to that function. When the value that is passed to the function is a constant type then the parameter is definitely an in parameter.
+
+    I have a display function in both the parts which receives a const value in the parameter and uses it to print the data that is passed to it. It is a in parameter because the value that is passed to the function is not modified and it stays the way it is with no modifications. 
+Prototype of the functions:-
+    Lab : void display(const Employee* emp);
+    DIY : int display(const Population* pop);

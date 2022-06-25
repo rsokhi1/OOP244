@@ -1,0 +1,10 @@
+/*Workshop #8 Part #2
+        Name        : Rajbeer Sokhi
+        StudentId   : 124969205
+        Email       : rsokhi1@myseneca.ca
+        Section     : NAA
+        Date        : 25th July 2021
+   I have done all the coding by myself and only copied the code that my professor provided to complete my workshops and assignments.
+*/
+
+In this workshop I learned about virtual functions and abstract classes. Also, I learned more about inheritance concepts in this workshop. It used to be a bit confusing for me but after this workshops the inheritance concept is much more clear to me. Also, I used the virtual functions in this. THe virtual function literally uses the virtual function to make the function virtual. We use the virtual function to override the function of the base class. And when overriding a virtual function, the virtual function of the derived class must be the same as the base class. 

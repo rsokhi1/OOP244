@@ -1,0 +1,10 @@
+/*Workshop #7 Part #1
+        Name        : Rajbeer Sokhi
+        StudentId   : 124969205
+        Email       : rsokhi1@myseneca.ca
+        Section     : NAA
+        Date        : 18th July 2021
+   I have done all the coding by myself and only copied the code that my professor provided to complete my workshops and assignments.
+*/
+
+In this workshop I have learned a new feature of object oriented programming that is inheritance. In this workshop we inherited a class from the base class. Using inheritance it was possible to use the member variables and funcitons of the parent class, depending on the use. The class that is inherited is called parent class and the class that inherits the class is called child class or derived class. The inheritance of a class also helps in simplifying and reusing the code. We also used a shadowed member function that is defined in the base class. 

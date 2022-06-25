@@ -1,0 +1,13 @@
+/*Workshop #5 DIY
+        Name        : Rajbeer Sokhi
+        StudentId   : 124969205
+        Email       : rsokhi1@myseneca.ca
+        Section     : NAA
+        Date        : 27th June 2021
+   I have done all the coding by myself and only copied the code that my professor provided to complete my workshops and assignments.
+*/
+
+
+In this workshop I learned how to define and create binary member operator, type conversion operator, unary member operator, helper binary operator between classes and helper operator between a primitive type and a class.
+
+I can now create any binary member operator I need for a class and I also overloaded the operators that I created in this workshop using the overloading technique that I learned before. The thing that I enjoyed and liked the best was type conversion operator. I never knew that I can totally change the type of the value and get the value I needed just with a few simple steps. I am sure that I will be using the type conversion operator a lot in the future. 

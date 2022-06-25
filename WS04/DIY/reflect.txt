@@ -1,0 +1,14 @@
+/*Workshop #4 Part #1
+        Name        : Rajbeer Sokhi
+        StudentId   : 124969205
+        Email       : rsokhi1@myseneca.ca
+        Section     : NAA
+        Date        : 15th June 2021
+        I have done all the coding by myself and only copied the code that my professor provided to complete my workshops and assignments.
+*/
+
+One of the things that I learned in this workshop are constructors and destructors. The constructor is automatically called when an object is created and they don't return anything. Also, the constructors can be easily be overloaded the same way the fucntions are overloaded. So to call an overloaded function parameters are passed to the object. We can also create a defaullt constructor that will set the defaullt values for that object if no parameters are passed. In the lab part the constructor for canister class was overloaded and in the DIY part the constructor for label class was overloaded. Now coming to the destructors, destructors is a function that is called automatically when a object is destroyed. The destructor doesn't return anything and also doesn't receive any parameters. In this workshop we used the destructors to deallocate the dynamic memory we used in the workshops. Because the dynamic memory needs to be deleted before the object is deleted or else it will cause a memory leak. 
+
+In this workshop I also learned how to return the reference of the current object. It can be done using the "this" keyword. It is used to point to the data of the whole object in that fucntion. This keyword can also help to assign the values to the current object.
+
+In this workshop, I also finally used the debug feature from the visual studio. I always use VS Code for my coding purpose but in the DIY part my program was breaking in the middle of the execution there was some issue with my readlabel function and I was not able to figure it out but then I used the debug feature and it became really easy for me. I guess I will move back to visual studio soon.

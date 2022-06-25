@@ -1,0 +1,10 @@
+/*Workshop #10 Part #2
+        Name        : Rajbeer Sokhi
+        StudentId   : 124969205
+        Email       : rsokhi1@myseneca.ca
+        Section     : NAA
+        Date        : 8th August 2021
+*/
+
+In this Workshop we learned a new term known as the rule of three. This rule states that if any one of the destructor, copy constructor or the copy assignment operator is defined then all the three needs to be defined. Although, C++ provides above three default functions but, if we use the dynamically allocated variables then we need to delete the memory for the dynamically allocated variables or else it will cause a memory leak. The default destructor doesn't deallocate the memory that is why we need to define the destructor by ourselves. 
+

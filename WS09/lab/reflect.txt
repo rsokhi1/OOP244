@@ -1,0 +1,10 @@
+/*Workshop #9 Part #2
+        Name        : Rajbeer Sokhi
+        StudentId   : 124969205
+        Email       : rsokhi1@myseneca.ca
+        Section     : NAA
+        Date        : 1st August 2021
+   I have done all the coding by myself and only copied the code that my professor provided to complete my workshops and assignments.
+*/
+
+In this workshop I learned more about function template. I feel function template is the most difficult topic so far for me in OOP244. I will try to work more and study in deep about function template. The advantage of using template is that we can use various types freely in a function or a class. However, one more lesson is that when multiple types of classes are implemented as a function of a template, the abstract base class is first implemented, then inherited as multiple types of classes, and finally implemented. Also, the template is difficult to debug because the type is determined during the compilation phase. Therefore, you have to make the code carefully when you first make it.
